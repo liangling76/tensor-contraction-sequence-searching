@@ -3,7 +3,6 @@
 ## Folder Description:
 
 ./SeqSearch is the solution of vanilla search.
-
 ./SeqSearchPrune is the solution of advanced search with outer product pruning.
 
 
